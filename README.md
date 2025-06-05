@@ -23,7 +23,7 @@ A responsive, interactive webpage for discovering local events. Built with moder
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/shahmeer631/EventHub
 ```
 
 2. Open the project folder and launch `index.html` in your web browser. (open with live server)
